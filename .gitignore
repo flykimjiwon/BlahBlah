@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Local credentials and generated Maven output ###
+*.p12
+**/target/
